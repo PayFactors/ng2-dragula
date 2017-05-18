@@ -20,7 +20,7 @@
   "license": "MIT",
   "name": "ng2-dragula",
   "dependencies": {
-    "dragula": "^3.7.2"
+    "dragula": "brandoncollins/dragula"
   },
   "peerDependencies": {
     "@angular/common": "^2.3.1 || >=4.0.0",
